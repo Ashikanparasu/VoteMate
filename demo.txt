@@ -1,5 +1,6 @@
 hlo Everyone
 deepa
+<<<<<<< HEAD
 Ashik    <>
 g
 g
@@ -11,3 +12,9 @@ gf
 gg
 gf
 g
+=======
+
+
+
+hlo deepa
+>>>>>>> 3146d12 (hlo)
